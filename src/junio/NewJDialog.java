@@ -31,6 +31,7 @@ public class NewJDialog extends javax.swing.JDialog {
         areaGeneros.setForeground(Color.blue);
         botonSubir.setIcon(imagenSubir);
         botonBajar.setIcon(imagenBajar);
+        System.out.println("Artelo");
     }
     
 
